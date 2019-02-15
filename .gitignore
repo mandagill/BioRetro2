@@ -1,0 +1,6 @@
+/env
+/raw_data
+secrets.sh
+server*
+*.pyc
+.vscode
